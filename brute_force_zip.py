@@ -2,7 +2,7 @@ import zipfile
 from tqdm import tqdm
 
 """ User's input """
-ZIP_FILE_PATH = r'C:\Users\Albert\Albert\projects\python\ethical_hacking\test.zip'
+ZIP_FILE_PATH = r'C:\Users\Albert\Albert\projects\python\ethical_hacking\zip2hack.zip'
 DICT_FILE_PATH = r'C:\Users\Albert\Albert\projects\python\ethical_hacking\brute_force_dict\rockyou.txt'
 
 
