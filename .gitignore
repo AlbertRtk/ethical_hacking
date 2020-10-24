@@ -1,7 +1,6 @@
 .vscode
 brute_force_dict
-test.txt
-test.zip
+message.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
